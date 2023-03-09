@@ -1,6 +1,6 @@
 # Common functions that use the tfplan/v2 import
 
-# The filter functions all accept a collection of resource changes, an attribute,
+# The filter functions all accept a collection of resource changes, an attribute,qeqwe
 # a value or a list of values, and a boolean, prtmsg, which can be true or false
 # and indicates whether the filter function should print violation messages.
 # The filter functions return a map consisting of 2 items:
